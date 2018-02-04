@@ -25,7 +25,14 @@ The script, run_analysis.R, does the following below:
 10. Extracts only the measurements on the mean and standard deviation for each measurement in features.txt.
 11. Builds the second, independent tidy data set, run_analysis.txt, which consists of the average of each variable for each activity and each subject.
 
-To run the script:
+To run the script (Me):
 
-To compile script, type source("run_analysis.R") then press enter.
-To run the script, type run_analysis() then press enter.
+1. Set the wd to where the R script is stored by typing setwd("the location of the R script")
+2. Source and run the script by typing source("run_analysis.R") then press enter.
+
+To run the script (You):
+
+1. Download and store the R script on this repo to your computer.
+2. Open the R script, then edit the appropriate file locations you want the datasets to be downloaded and stored to.
+3. Set the wd to where the R script is stored by typing setwd("the location of the R script)
+4. Source and run the script by type source("run_analysis.R") then press enter.
