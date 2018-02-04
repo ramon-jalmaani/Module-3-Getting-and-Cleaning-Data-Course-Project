@@ -6,7 +6,7 @@ The presentation of this course project is geared towards the novices (like me) 
 
 ## Files on this Repo
 1. README.md - provides a general overview on the objective of the course project and a brief description on the required script.
-2. CodeBook.md - provides description and/or procedure of obtaining and storing data, checking files, setting directory, reading files, cleaning data, and creating new column names.
+2. Codebook.md - provides description and/or procedure of obtaining and storing data, checking files, setting directory, reading files, cleaning data, and creating new column names.
 3. run_analysis.R - contains the script.
 4. run_analysis.txt - contains the second, independent tidy data set.
 
